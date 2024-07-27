@@ -34,14 +34,15 @@
 
       Why is it bad: 
 
-      It difficult to follow the main points. The visualization uses too many lines, leading to visual clutter.
+      1. It difficult to follow the main points. The visualization uses too many lines, leading to visual clutter.
       Poor use of space, with elements crammed together or overlapping, making it hard to read labels and data points.
 
-      Lack of Context:
+      2. Lack of Context:
 
       Insufficient context is provided, with no clear explanation of the data sources, time frame, or significance of the data.
       Missing legends, labels, or annotations, leaving the viewer confused about what is being shown.
 
+      3. Using the wrong graphs/charts for their particular purpose and as a result - creating misleading graph. Trying to incorporate too much information in one graph.
 
       ```
     - How could this data visualization have been improved?  
