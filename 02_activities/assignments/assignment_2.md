@@ -10,24 +10,50 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      GOOD: https://public.tableau.com/app/profile/shreya.arya/viz/RecommendedDailyWaterIntakeB2VB/Water
 
+      Why is it Good?
 
+      Clarity and Simplicity:
 
+      The visualization uses clean, simple lines and shapes, making it easy to understand at a glance.
+      Appropriate use of colors to distinguish different data points without overwhelming the viewer.
+      Legends and labels are clearly placed and informative.
+      
+      Accuracy:
 
+      The data is accurately represented without distortion. 
 
+      Context and Relevance:
 
+      Provides sufficient context for the data, including sources, time frame, and any necessary explanations or annotations.
+
+      Relevant to the audience, providing insights that are meaningful and useful.
+
+      BAD: https://i.imgur.com/tVE9XtI.jpeg
+
+      Why is it bad: 
+
+      1. It difficult to follow the main points. The visualization uses too many lines, leading to visual clutter.
+      Poor use of space, with elements crammed together or overlapping, making it hard to read labels and data points.
+
+      2. Lack of Context:
+
+      Insufficient context is provided, with no clear explanation of the data sources, time frame, or significance of the data.
+      Missing legends, labels, or annotations, leaving the viewer confused about what is being shown.
+
+      3. Using the wrong graphs/charts for their particular purpose and as a result - creating misleading graph. Trying to incorporate too much information in one graph.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Simplify the Design: Reduce the number of elements and use a more straightforward design to make the visualization clearer.
 
+      Accurate Representation: Ensure that all scales and axes are properly labeled and proportional to accurately reflect the data.
 
+      Add Context: Provide clear legends, labels, and annotations to explain what the data represents and why it is important.
 
-
-
-
+      Enhance Accessibility: Use color schemes that are accessible to colorblind individuals and ensure that text is readable.
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
